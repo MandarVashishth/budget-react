@@ -5,7 +5,7 @@ function DisplayBalance({
     title,
     value,
     size,
-    color='Black',
+    color='black',
 }) {
   return (
     <Statistic size={size} color={color}>
